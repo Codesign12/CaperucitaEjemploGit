@@ -1,1 +1,3 @@
 Aqui se va a agregar texto para poder hacer el intro al cuerso de git
+
+aqui se escribe texto secundario para generar un nuevo commit
